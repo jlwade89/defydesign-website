@@ -16,14 +16,14 @@
 
 window.DEFYPricing = {
   quantityBands: [
-    { maxQuantity: 500, aluminumFront: 2.00 },
-    { maxQuantity: 600, aluminumFront: 1.80 },
-    { maxQuantity: 700, aluminumFront: 1.60 },
-    { maxQuantity: 800, aluminumFront: 1.40 },
-    { maxQuantity: 900, aluminumFront: 1.20 },
-    { maxQuantity: 1000, aluminumFront: 1.00 }
+    { maxQuantity: 500, aluminumFront: 0.50 },
+    { maxQuantity: 600, aluminumFront: 0.48 },
+    { maxQuantity: 700, aluminumFront: 0.46 },
+    { maxQuantity: 800, aluminumFront: 0.44 },
+    { maxQuantity: 900, aluminumFront: 0.42 },
+    { maxQuantity: 1000, aluminumFront: 0.40 }
   ],
 
-  stainlessSurcharge: 2.00,
-  backEngravingCharge: 0.50
+  stainlessSurcharge: 1.00,
+  backEngravingCharge: 0.25
 };
